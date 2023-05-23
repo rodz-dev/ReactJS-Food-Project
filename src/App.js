@@ -6,7 +6,7 @@ function App() {
   return (
     <CartProvider>
       <Header />
-      <main>
+    <main>
         <Meals />
       </main>
     </CartProvider>
